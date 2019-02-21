@@ -1,2 +1,4 @@
 # Nix-Exploration
-Used to collect files and notes from my exploration of Linux / Unix based Systems
+My Adventure into the great and wonderful world of Linux and Unix based systems. This Repository system is to be a collection place for my notes and files throughtout this adventure.
+
+
