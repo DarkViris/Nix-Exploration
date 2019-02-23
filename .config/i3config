@@ -167,3 +167,5 @@ bindsym XF86MonBrightnessDown exec xbacklight -dec 10
 # Auto Start applications
 exec --no-startup-id google-chrome
 
+# Auto Load Desktop Wallpaper. Requires feh and to chmod +x ~.fehbg
+exec --no-startup-id ~.fehbg
