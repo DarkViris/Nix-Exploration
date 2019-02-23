@@ -1,0 +1,2 @@
+# Edit Sudoers via sudo visudo to allow
+alias shutdown='shutdown -h now'
