@@ -1,2 +1,7 @@
-# Edit Sudoers via sudo visudo to allow
+ # User specific aliases and functions
+        # shutdown
 alias shutdown='shutdown -h now'
+        # Weather
+alias weather='curl http://wttr.in/little_elm'
+        # yum Install
+alias install='sudo yum install'
