@@ -5,3 +5,7 @@ alias shutdown='shutdown -h now'
 alias weather='curl http://wttr.in/little_elm'
         # yum Install
 alias install='sudo yum install'
+        # yum list
+alias yumls='yum list | grep'
+        # GCompris - Child Education
+alias kided='$HOME/gcompris-qt-0.95-Linux/bin/gcompris-qt.sh &'
