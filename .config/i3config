@@ -170,7 +170,7 @@ bindsym $mod+l exec ~/.bin/scripts/lock.sh
 
 # Auto Start applications
 exec --no-startup-id google-chrome
-exec --no-startup-id redshift -l geoclue -t 5000:4000 -b 1.0:0.7
+exec --no-startup-id redshift -l geoclue2 -t 5000:4000 -b 1.0:0.7
 
 
 # Auto Load Desktop Wallpaper. Requires feh and to chmod +x ~.fehbg
