@@ -9,3 +9,5 @@ alias install='sudo yum install'
 alias yumls='yum list | grep'
         # GCompris - Child Education
 alias kided='$HOME/gcompris-qt-0.95-Linux/bin/gcompris-qt.sh &'
+        # Redhsift Alias incase it fails on start
+alias redshift='redshift -l geoclue -t 5000:4000 -b 1.0:0.7 &'
